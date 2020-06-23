@@ -1,1 +1,0 @@
-# fb_prioritet_bot
